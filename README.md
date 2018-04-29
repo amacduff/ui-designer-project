@@ -13,5 +13,5 @@ Test project for UI Designer Role
 ## Suggestions
 
 - Add customer images to increase trust
-- Add a CTA button
-- Consider focusing on one testimony at a time
+- Add a CTA button to give John a next step
+- Consider focusing on one testimony at a time to not overwhelm
